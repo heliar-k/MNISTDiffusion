@@ -1,0 +1,13 @@
+[project]
+name = "mnistdiffusion"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "black>=25.9.0",
+    "isort>=7.0.0",
+    "tdqm>=0.0.1",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]
